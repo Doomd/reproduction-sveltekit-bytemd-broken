@@ -1,6 +1,8 @@
 <script>
 	import Header from './Header.svelte';
 	import './styles.css';
+
+	// import bytmd css styles here
 </script>
 
 <div class="app">
